@@ -64,4 +64,14 @@ export default {
     display: flex;
     flex-direction: column;
 }
+.btn_guardar{
+    padding: 20px 10px;
+    margin-top: 20px;
+    background-color: rgb(211, 121, 121);
+}
+.btn_guardar:hover{
+    padding: 20px 10px;
+    margin-top: 20px;
+    background-color:  rgb(219, 66, 66);
+}
 </style>
